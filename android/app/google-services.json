@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484475160638",
+    "firebase_url": "https://chatulita.firebaseio.com",
+    "project_id": "chatulita",
+    "storage_bucket": "chatulita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484475160638:android:499b2e17e7c64398bb696f",
+        "android_client_info": {
+          "package_name": "com.shrijeet.chatulita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484475160638-kse7gep8mdt8qpto3759jac9crse1oct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttbvr5AVFdEjH5GgBviuA_V4mgUfvuuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484475160638-kse7gep8mdt8qpto3759jac9crse1oct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
